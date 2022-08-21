@@ -2,13 +2,15 @@
 
 ## Requirements:
 
-* NodeJs
+* NodeJS
 * npm or yarn
 
 ### To run the project, first install its dependencies with: 
 ~~~bash
 npm -i
+~~~
 or
+~~~bash
 yarn install
 ~~~
 
